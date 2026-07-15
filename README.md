@@ -1,5 +1,4 @@
-# Trabalho-de-Circuitos-Digitais-
-Calculadora de 4 bits (Somador, Subtrator, Multiplicador e Divisor)
+# Digital Circuits Assignment
 
 # PT
 Este projeto foi feito no Logisim Evolution v3.9.0 e talvez não funcione em versões mais atualizadas do software.
