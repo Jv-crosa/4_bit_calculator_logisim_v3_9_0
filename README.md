@@ -4,7 +4,7 @@
 
 **AVISO**
 
-VOCE PRECISARA DE UM SOFTWARE PARA ABRIR O .circ QUE ESTÃO LOCALIZADOS NO REPOSITÓRIO
+VOCE PRECISARÁ DE UM SOFTWARE PARA ABRIR O .circ QUE ESTÃO LOCALIZADOS NO REPOSITÓRIO
 
 Este projeto foi feito no Logisim Evolution v3.9.0 e talvez não funcione em versões mais atualizadas do software.
 
